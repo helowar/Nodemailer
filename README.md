@@ -1,3 +1,6 @@
+http://www.cnblogs.com/Chen-xy/p/4466460.html
+Nodejs之发送邮件nodemailer
+
 ![Nodemailer](https://raw.githubusercontent.com/andris9/Nodemailer/master/assets/nm_logo_200x136.png)
 
 Send e-mails from Node.js – easy as cake!
